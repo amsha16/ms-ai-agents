@@ -1,0 +1,6 @@
+python-dotenv
+azure-identity
+python-dotenv
+autogen-agentchat
+autogen-ext[azure]
+aiohttp
