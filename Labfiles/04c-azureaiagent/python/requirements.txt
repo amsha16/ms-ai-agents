@@ -1,0 +1,7 @@
+azure-ai-ml
+python-dotenv
+azure-identity
+azureml
+azure-ai-projects
+ipython
+asyncio
